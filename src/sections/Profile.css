@@ -1,0 +1,17 @@
+section#profile {
+    height: calc(100vh - 10vh);
+    width: 100%;
+    background-color: #1abc9c;
+    color: white;
+}
+.skillList {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.75rem;
+    list-style: none;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
